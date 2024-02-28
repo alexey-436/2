@@ -1,0 +1,280 @@
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzc.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOkCnqEu92Fr1Mu52xP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://saddi.valesa.space/
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\index.htm
+Content Type: text/html
+
+Uri: https://saddi.valesa.space/agreement
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\agreement.html
+Content Type: text/html
+
+Uri: https://saddi.valesa.space/assets/58049e56/jquery.js
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\assets\58049e56\jquery.js
+Content Type: application/javascript
+
+Uri: https://saddi.valesa.space/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://saddi.valesa.space/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://saddi.valesa.space/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://saddi.valesa.space/policy
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\policy.html
+Content Type: text/html
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/css/reset.css
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\css\reset.css
+Content Type: text/css
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/css/styles.css
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\css\styles.css
+Content Type: text/css
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/favicon.ico
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/111.jpg
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\111.jpg
+Content Type: image/jpeg
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/bg-preview.jpg
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\bg-preview.jpg
+Content Type: image/jpeg
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/blue_tick_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\blue_tick_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/image_1.jpg
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\image_1.jpg
+Content Type: image/jpeg
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/image_2.jpg
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\image_2.jpg
+Content Type: image/jpeg
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/image_3.jpg
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\image_3.jpg
+Content Type: image/jpeg
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/image_4.jpg
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\image_4.jpg
+Content Type: image/jpeg
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/image_5.jpg
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\image_5.jpg
+Content Type: image/jpeg
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/offer3__benefit1_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\offer3__benefit1_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/offer3__benefit2_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\offer3__benefit2_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/offer3__benefit3_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\offer3__benefit3_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/offer3__clock_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\offer3__clock_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/offer__image.jpg
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\offer__image.jpg
+Content Type: image/jpeg
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/offer__name_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\offer__name_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/offer__phone_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/offer__tick_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\offer__tick_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/order_steps1__step1_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\order_steps1__step1_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/order_steps1__step2_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\order_steps1__step2_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/order_steps1__step3_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\order_steps1__step3_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/order_steps1__step4_icon.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\order_steps1__step4_icon.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/rev1.jpg
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\rev1.jpg
+Content Type: image/jpeg
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/rev2.jpg
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\rev2.jpg
+Content Type: image/jpeg
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/img/slider__arrows.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\img\slider__arrows.png
+Content Type: image/png
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/js/jquery.js
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/js/previewYouTube.js
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\js\previewYouTube.js
+Content Type: application/javascript
+
+Uri: https://saddi.valesa.space/site/gardendiodlightsolar_nogomart_ua/js/scripts.js
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\site\gardendiodlightsolar_nogomart_ua\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://saddi.valesa.space/warranty
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\warranty.html
+Content Type: text/html
+
+Uri: https://www.gstatic.com/images/branding/product/1x/translate_24dp.png
+File Name: C:\Downloaded Web Sites\saddi.valesa.space\images\branding\product\1x\translate_24dp.png
+Content Type: image/png
+
